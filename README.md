@@ -5,15 +5,6 @@ An end-to-end machine learning project showcasing data ingestion, preprocessing,
 ## 🚀 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Training & Evaluation](#model-training--evaluation)
-- [Deployment](#deployment)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
